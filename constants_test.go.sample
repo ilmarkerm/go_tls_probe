@@ -1,0 +1,14 @@
+package go_tls_probe
+
+/*
+	Here are the target server names used for unit testing
+*/
+
+const (
+	testMysqlHost = "localhost"
+	testMysqlPort = 3306
+	testRegularHost = "localhost"
+	testRegularPort = 443
+	testPostgresHost = "localhost"
+	testPostgresPort = 5433
+)
